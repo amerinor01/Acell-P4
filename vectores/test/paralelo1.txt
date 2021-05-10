@@ -1,0 +1,1799 @@
+It:  1  BlockSize:  4  N:  256
+Tiempo kernel: 0.000025 s
+Tiempo total: 0.174606 s
+GFLOPS 0.000375 
+
+It:  2  BlockSize:  4  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.039362 s
+GFLOPS 0.001665 
+
+It:  3  BlockSize:  4  N:  256
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.040202 s
+GFLOPS 0.001630 
+
+It:  4  BlockSize:  4  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.039146 s
+GFLOPS 0.001674 
+
+It:  5  BlockSize:  4  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.039617 s
+GFLOPS 0.001654 
+
+It:  6  BlockSize:  4  N:  256
+Tiempo kernel: 0.000015 s
+Tiempo total: 0.086943 s
+GFLOPS 0.000754 
+
+It:  7  BlockSize:  4  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040030 s
+GFLOPS 0.001637 
+
+It:  8  BlockSize:  4  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.039946 s
+GFLOPS 0.001641 
+
+It:  9  BlockSize:  4  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040105 s
+GFLOPS 0.001634 
+
+It:  10  BlockSize:  4  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.059665 s
+GFLOPS 0.001098 
+
+It:  1  BlockSize:  16  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.089586 s
+GFLOPS 0.000732 
+
+It:  2  BlockSize:  16  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.039766 s
+GFLOPS 0.001648 
+
+It:  3  BlockSize:  16  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040239 s
+GFLOPS 0.001629 
+
+It:  4  BlockSize:  16  N:  256
+Tiempo kernel: 0.000015 s
+Tiempo total: 0.040042 s
+GFLOPS 0.001637 
+
+It:  5  BlockSize:  16  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.039750 s
+GFLOPS 0.001649 
+
+It:  6  BlockSize:  16  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.081676 s
+GFLOPS 0.000802 
+
+It:  7  BlockSize:  16  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.061123 s
+GFLOPS 0.001072 
+
+It:  8  BlockSize:  16  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.039972 s
+GFLOPS 0.001640 
+
+It:  9  BlockSize:  16  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.039931 s
+GFLOPS 0.001641 
+
+It:  10  BlockSize:  16  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040085 s
+GFLOPS 0.001635 
+
+It:  1  BlockSize:  64  N:  256
+Tiempo kernel: 0.000013 s
+Tiempo total: 0.039741 s
+GFLOPS 0.001649 
+
+It:  2  BlockSize:  64  N:  256
+Tiempo kernel: 0.000013 s
+Tiempo total: 0.039960 s
+GFLOPS 0.001640 
+
+It:  3  BlockSize:  64  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.039927 s
+GFLOPS 0.001641 
+
+It:  4  BlockSize:  64  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040055 s
+GFLOPS 0.001636 
+
+It:  5  BlockSize:  64  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.039696 s
+GFLOPS 0.001651 
+
+It:  6  BlockSize:  64  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.039779 s
+GFLOPS 0.001648 
+
+It:  7  BlockSize:  64  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.039858 s
+GFLOPS 0.001644 
+
+It:  8  BlockSize:  64  N:  256
+Tiempo kernel: 0.000013 s
+Tiempo total: 0.058462 s
+GFLOPS 0.001121 
+
+It:  9  BlockSize:  64  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.039289 s
+GFLOPS 0.001668 
+
+It:  10  BlockSize:  64  N:  256
+Tiempo kernel: 0.000013 s
+Tiempo total: 0.040237 s
+GFLOPS 0.001629 
+
+It:  1  BlockSize:  256  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.039774 s
+GFLOPS 0.001648 
+
+It:  2  BlockSize:  256  N:  256
+Tiempo kernel: 0.000015 s
+Tiempo total: 0.040788 s
+GFLOPS 0.001607 
+
+It:  3  BlockSize:  256  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040298 s
+GFLOPS 0.001626 
+
+It:  4  BlockSize:  256  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040499 s
+GFLOPS 0.001618 
+
+It:  5  BlockSize:  256  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.039883 s
+GFLOPS 0.001643 
+
+It:  6  BlockSize:  256  N:  256
+Tiempo kernel: 0.000015 s
+Tiempo total: 0.093293 s
+GFLOPS 0.000702 
+
+It:  7  BlockSize:  256  N:  256
+Tiempo kernel: 0.000015 s
+Tiempo total: 0.039590 s
+GFLOPS 0.001655 
+
+It:  8  BlockSize:  256  N:  256
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.039913 s
+GFLOPS 0.001642 
+
+It:  9  BlockSize:  256  N:  256
+Tiempo kernel: 0.000018 s
+Tiempo total: 0.039928 s
+GFLOPS 0.001641 
+
+It:  10  BlockSize:  256  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.039962 s
+GFLOPS 0.001640 
+
+It:  1  BlockSize:  1024  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040083 s
+GFLOPS 0.001635 
+
+It:  2  BlockSize:  1024  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040190 s
+GFLOPS 0.001631 
+
+It:  3  BlockSize:  1024  N:  256
+Tiempo kernel: 0.000015 s
+Tiempo total: 0.081824 s
+GFLOPS 0.000801 
+
+It:  4  BlockSize:  1024  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.089123 s
+GFLOPS 0.000735 
+
+It:  5  BlockSize:  1024  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040882 s
+GFLOPS 0.001603 
+
+It:  6  BlockSize:  1024  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.039944 s
+GFLOPS 0.001641 
+
+It:  7  BlockSize:  1024  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040310 s
+GFLOPS 0.001626 
+
+It:  8  BlockSize:  1024  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040100 s
+GFLOPS 0.001634 
+
+It:  9  BlockSize:  1024  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.039926 s
+GFLOPS 0.001641 
+
+It:  10  BlockSize:  1024  N:  256
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.040108 s
+GFLOPS 0.001634 
+
+It:  1  BlockSize:  4  N:  2048
+Tiempo kernel: 0.000018 s
+Tiempo total: 0.039754 s
+GFLOPS 0.105506 
+
+It:  2  BlockSize:  4  N:  2048
+Tiempo kernel: 0.000019 s
+Tiempo total: 0.040167 s
+GFLOPS 0.104422 
+
+It:  3  BlockSize:  4  N:  2048
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.040318 s
+GFLOPS 0.104031 
+
+It:  4  BlockSize:  4  N:  2048
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.040057 s
+GFLOPS 0.104708 
+
+It:  5  BlockSize:  4  N:  2048
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.057192 s
+GFLOPS 0.073337 
+
+It:  6  BlockSize:  4  N:  2048
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.040144 s
+GFLOPS 0.104481 
+
+It:  7  BlockSize:  4  N:  2048
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.040068 s
+GFLOPS 0.104680 
+
+It:  8  BlockSize:  4  N:  2048
+Tiempo kernel: 0.000019 s
+Tiempo total: 0.039588 s
+GFLOPS 0.105949 
+
+It:  9  BlockSize:  4  N:  2048
+Tiempo kernel: 0.000020 s
+Tiempo total: 0.039976 s
+GFLOPS 0.104921 
+
+It:  10  BlockSize:  4  N:  2048
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.040256 s
+GFLOPS 0.104191 
+
+It:  1  BlockSize:  16  N:  2048
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.040105 s
+GFLOPS 0.104583 
+
+It:  2  BlockSize:  16  N:  2048
+Tiempo kernel: 0.000015 s
+Tiempo total: 0.040070 s
+GFLOPS 0.104674 
+
+It:  3  BlockSize:  16  N:  2048
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.040237 s
+GFLOPS 0.104240 
+
+It:  4  BlockSize:  16  N:  2048
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.039677 s
+GFLOPS 0.105711 
+
+It:  5  BlockSize:  16  N:  2048
+Tiempo kernel: 0.000015 s
+Tiempo total: 0.040151 s
+GFLOPS 0.104463 
+
+It:  6  BlockSize:  16  N:  2048
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040298 s
+GFLOPS 0.104082 
+
+It:  7  BlockSize:  16  N:  2048
+Tiempo kernel: 0.000015 s
+Tiempo total: 0.040890 s
+GFLOPS 0.102575 
+
+It:  8  BlockSize:  16  N:  2048
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040086 s
+GFLOPS 0.104633 
+
+It:  9  BlockSize:  16  N:  2048
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.040043 s
+GFLOPS 0.104745 
+
+It:  10  BlockSize:  16  N:  2048
+Tiempo kernel: 0.000015 s
+Tiempo total: 0.040197 s
+GFLOPS 0.104344 
+
+It:  1  BlockSize:  64  N:  2048
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.040248 s
+GFLOPS 0.104211 
+
+It:  2  BlockSize:  64  N:  2048
+Tiempo kernel: 0.000013 s
+Tiempo total: 0.040489 s
+GFLOPS 0.103591 
+
+It:  3  BlockSize:  64  N:  2048
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.039969 s
+GFLOPS 0.104939 
+
+It:  4  BlockSize:  64  N:  2048
+Tiempo kernel: 0.000015 s
+Tiempo total: 0.089171 s
+GFLOPS 0.047037 
+
+It:  5  BlockSize:  64  N:  2048
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.039768 s
+GFLOPS 0.105469 
+
+It:  6  BlockSize:  64  N:  2048
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040150 s
+GFLOPS 0.104466 
+
+It:  7  BlockSize:  64  N:  2048
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.087471 s
+GFLOPS 0.047951 
+
+It:  8  BlockSize:  64  N:  2048
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040173 s
+GFLOPS 0.104406 
+
+It:  9  BlockSize:  64  N:  2048
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040383 s
+GFLOPS 0.103863 
+
+It:  10  BlockSize:  64  N:  2048
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.039919 s
+GFLOPS 0.105070 
+
+It:  1  BlockSize:  256  N:  2048
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040857 s
+GFLOPS 0.102658 
+
+It:  2  BlockSize:  256  N:  2048
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040359 s
+GFLOPS 0.103925 
+
+It:  3  BlockSize:  256  N:  2048
+Tiempo kernel: 0.000015 s
+Tiempo total: 0.059883 s
+GFLOPS 0.070042 
+
+It:  4  BlockSize:  256  N:  2048
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040095 s
+GFLOPS 0.104609 
+
+It:  5  BlockSize:  256  N:  2048
+Tiempo kernel: 0.000015 s
+Tiempo total: 0.040458 s
+GFLOPS 0.103671 
+
+It:  6  BlockSize:  256  N:  2048
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.041012 s
+GFLOPS 0.102270 
+
+It:  7  BlockSize:  256  N:  2048
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040231 s
+GFLOPS 0.104256 
+
+It:  8  BlockSize:  256  N:  2048
+Tiempo kernel: 0.000015 s
+Tiempo total: 0.057158 s
+GFLOPS 0.073381 
+
+It:  9  BlockSize:  256  N:  2048
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040216 s
+GFLOPS 0.104294 
+
+It:  10  BlockSize:  256  N:  2048
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040009 s
+GFLOPS 0.104834 
+
+It:  1  BlockSize:  1024  N:  2048
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040309 s
+GFLOPS 0.104054 
+
+It:  2  BlockSize:  1024  N:  2048
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040171 s
+GFLOPS 0.104411 
+
+It:  3  BlockSize:  1024  N:  2048
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040495 s
+GFLOPS 0.103576 
+
+It:  4  BlockSize:  1024  N:  2048
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040158 s
+GFLOPS 0.104445 
+
+It:  5  BlockSize:  1024  N:  2048
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.058800 s
+GFLOPS 0.071332 
+
+It:  6  BlockSize:  1024  N:  2048
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040200 s
+GFLOPS 0.104336 
+
+It:  7  BlockSize:  1024  N:  2048
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040074 s
+GFLOPS 0.104664 
+
+It:  8  BlockSize:  1024  N:  2048
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040340 s
+GFLOPS 0.103974 
+
+It:  9  BlockSize:  1024  N:  2048
+Tiempo kernel: 0.000015 s
+Tiempo total: 0.040143 s
+GFLOPS 0.104484 
+
+It:  10  BlockSize:  1024  N:  2048
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.040135 s
+GFLOPS 0.104505 
+
+It:  1  BlockSize:  4  N:  16384
+Tiempo kernel: 0.000040 s
+Tiempo total: 0.040383 s
+GFLOPS 6.647239 
+
+It:  2  BlockSize:  4  N:  16384
+Tiempo kernel: 0.000040 s
+Tiempo total: 0.040117 s
+GFLOPS 6.691314 
+
+It:  3  BlockSize:  4  N:  16384
+Tiempo kernel: 0.000040 s
+Tiempo total: 0.062087 s
+GFLOPS 4.323537 
+
+It:  4  BlockSize:  4  N:  16384
+Tiempo kernel: 0.000039 s
+Tiempo total: 0.040432 s
+GFLOPS 6.639183 
+
+It:  5  BlockSize:  4  N:  16384
+Tiempo kernel: 0.000043 s
+Tiempo total: 0.040469 s
+GFLOPS 6.633113 
+
+It:  6  BlockSize:  4  N:  16384
+Tiempo kernel: 0.000039 s
+Tiempo total: 0.040201 s
+GFLOPS 6.677332 
+
+It:  7  BlockSize:  4  N:  16384
+Tiempo kernel: 0.000040 s
+Tiempo total: 0.039973 s
+GFLOPS 6.715420 
+
+It:  8  BlockSize:  4  N:  16384
+Tiempo kernel: 0.000041 s
+Tiempo total: 0.040016 s
+GFLOPS 6.708203 
+
+It:  9  BlockSize:  4  N:  16384
+Tiempo kernel: 0.000040 s
+Tiempo total: 0.040137 s
+GFLOPS 6.687980 
+
+It:  10  BlockSize:  4  N:  16384
+Tiempo kernel: 0.000040 s
+Tiempo total: 0.040645 s
+GFLOPS 6.604391 
+
+It:  1  BlockSize:  16  N:  16384
+Tiempo kernel: 0.000022 s
+Tiempo total: 0.040335 s
+GFLOPS 6.655150 
+
+It:  2  BlockSize:  16  N:  16384
+Tiempo kernel: 0.000020 s
+Tiempo total: 0.062506 s
+GFLOPS 4.294555 
+
+It:  3  BlockSize:  16  N:  16384
+Tiempo kernel: 0.000021 s
+Tiempo total: 0.040052 s
+GFLOPS 6.702174 
+
+It:  4  BlockSize:  16  N:  16384
+Tiempo kernel: 0.000022 s
+Tiempo total: 0.086725 s
+GFLOPS 3.095249 
+
+It:  5  BlockSize:  16  N:  16384
+Tiempo kernel: 0.000023 s
+Tiempo total: 0.040334 s
+GFLOPS 6.655314 
+
+It:  6  BlockSize:  16  N:  16384
+Tiempo kernel: 0.000022 s
+Tiempo total: 0.040481 s
+GFLOPS 6.631148 
+
+It:  7  BlockSize:  16  N:  16384
+Tiempo kernel: 0.000020 s
+Tiempo total: 0.040345 s
+GFLOPS 6.653499 
+
+It:  8  BlockSize:  16  N:  16384
+Tiempo kernel: 0.000023 s
+Tiempo total: 0.040311 s
+GFLOPS 6.659111 
+
+It:  9  BlockSize:  16  N:  16384
+Tiempo kernel: 0.000022 s
+Tiempo total: 0.039995 s
+GFLOPS 6.711726 
+
+It:  10  BlockSize:  16  N:  16384
+Tiempo kernel: 0.000021 s
+Tiempo total: 0.056213 s
+GFLOPS 4.775327 
+
+It:  1  BlockSize:  64  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040573 s
+GFLOPS 6.616111 
+
+It:  2  BlockSize:  64  N:  16384
+Tiempo kernel: 0.000019 s
+Tiempo total: 0.040072 s
+GFLOPS 6.698829 
+
+It:  3  BlockSize:  64  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040594 s
+GFLOPS 6.612688 
+
+It:  4  BlockSize:  64  N:  16384
+Tiempo kernel: 0.000019 s
+Tiempo total: 0.040266 s
+GFLOPS 6.666554 
+
+It:  5  BlockSize:  64  N:  16384
+Tiempo kernel: 0.000019 s
+Tiempo total: 0.040245 s
+GFLOPS 6.670032 
+
+It:  6  BlockSize:  64  N:  16384
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.039585 s
+GFLOPS 6.781242 
+
+It:  7  BlockSize:  64  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.039977 s
+GFLOPS 6.714747 
+
+It:  8  BlockSize:  64  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040390 s
+GFLOPS 6.646087 
+
+It:  9  BlockSize:  64  N:  16384
+Tiempo kernel: 0.000019 s
+Tiempo total: 0.040649 s
+GFLOPS 6.603741 
+
+It:  10  BlockSize:  64  N:  16384
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.040842 s
+GFLOPS 6.572534 
+
+It:  1  BlockSize:  256  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040356 s
+GFLOPS 6.651686 
+
+It:  2  BlockSize:  256  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.041141 s
+GFLOPS 6.524767 
+
+It:  3  BlockSize:  256  N:  16384
+Tiempo kernel: 0.000020 s
+Tiempo total: 0.040264 s
+GFLOPS 6.666885 
+
+It:  4  BlockSize:  256  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040308 s
+GFLOPS 6.659608 
+
+It:  5  BlockSize:  256  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040482 s
+GFLOPS 6.630983 
+
+It:  6  BlockSize:  256  N:  16384
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.040687 s
+GFLOPS 6.597573 
+
+It:  7  BlockSize:  256  N:  16384
+Tiempo kernel: 0.000019 s
+Tiempo total: 0.040405 s
+GFLOPS 6.643620 
+
+It:  8  BlockSize:  256  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040267 s
+GFLOPS 6.666388 
+
+It:  9  BlockSize:  256  N:  16384
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.040355 s
+GFLOPS 6.651851 
+
+It:  10  BlockSize:  256  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040354 s
+GFLOPS 6.652016 
+
+It:  1  BlockSize:  1024  N:  16384
+Tiempo kernel: 0.000018 s
+Tiempo total: 0.040250 s
+GFLOPS 6.669204 
+
+It:  2  BlockSize:  1024  N:  16384
+Tiempo kernel: 0.000018 s
+Tiempo total: 0.040857 s
+GFLOPS 6.570122 
+
+It:  3  BlockSize:  1024  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040122 s
+GFLOPS 6.690480 
+
+It:  4  BlockSize:  1024  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.058117 s
+GFLOPS 4.618880 
+
+It:  5  BlockSize:  1024  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040955 s
+GFLOPS 6.554400 
+
+It:  6  BlockSize:  1024  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.055291 s
+GFLOPS 4.854958 
+
+It:  7  BlockSize:  1024  N:  16384
+Tiempo kernel: 0.000018 s
+Tiempo total: 0.040326 s
+GFLOPS 6.656635 
+
+It:  8  BlockSize:  1024  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040575 s
+GFLOPS 6.615784 
+
+It:  9  BlockSize:  1024  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.039653 s
+GFLOPS 6.769613 
+
+It:  10  BlockSize:  1024  N:  16384
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.040466 s
+GFLOPS 6.633605 
+
+It:  1  BlockSize:  4  N:  131072
+Tiempo kernel: 0.000238 s
+Tiempo total: 0.041131 s
+GFLOPS 417.686618 
+
+It:  2  BlockSize:  4  N:  131072
+Tiempo kernel: 0.000245 s
+Tiempo total: 0.041262 s
+GFLOPS 416.360530 
+
+It:  3  BlockSize:  4  N:  131072
+Tiempo kernel: 0.000239 s
+Tiempo total: 0.041497 s
+GFLOPS 414.002643 
+
+It:  4  BlockSize:  4  N:  131072
+Tiempo kernel: 0.000237 s
+Tiempo total: 0.041272 s
+GFLOPS 416.259670 
+
+It:  5  BlockSize:  4  N:  131072
+Tiempo kernel: 0.000239 s
+Tiempo total: 0.040970 s
+GFLOPS 419.328000 
+
+It:  6  BlockSize:  4  N:  131072
+Tiempo kernel: 0.000240 s
+Tiempo total: 0.040981 s
+GFLOPS 419.215475 
+
+It:  7  BlockSize:  4  N:  131072
+Tiempo kernel: 0.000239 s
+Tiempo total: 0.041017 s
+GFLOPS 418.847523 
+
+It:  8  BlockSize:  4  N:  131072
+Tiempo kernel: 0.000239 s
+Tiempo total: 0.040977 s
+GFLOPS 419.256369 
+
+It:  9  BlockSize:  4  N:  131072
+Tiempo kernel: 0.000245 s
+Tiempo total: 0.059021 s
+GFLOPS 291.080634 
+
+It:  10  BlockSize:  4  N:  131072
+Tiempo kernel: 0.000238 s
+Tiempo total: 0.041380 s
+GFLOPS 415.173247 
+
+It:  1  BlockSize:  16  N:  131072
+Tiempo kernel: 0.000087 s
+Tiempo total: 0.057972 s
+GFLOPS 296.347697 
+
+It:  2  BlockSize:  16  N:  131072
+Tiempo kernel: 0.000087 s
+Tiempo total: 0.090355 s
+GFLOPS 190.137450 
+
+It:  3  BlockSize:  16  N:  131072
+Tiempo kernel: 0.000086 s
+Tiempo total: 0.040878 s
+GFLOPS 420.271784 
+
+It:  4  BlockSize:  16  N:  131072
+Tiempo kernel: 0.000080 s
+Tiempo total: 0.041368 s
+GFLOPS 415.293669 
+
+It:  5  BlockSize:  16  N:  131072
+Tiempo kernel: 0.000087 s
+Tiempo total: 0.041113 s
+GFLOPS 417.869496 
+
+It:  6  BlockSize:  16  N:  131072
+Tiempo kernel: 0.000079 s
+Tiempo total: 0.041176 s
+GFLOPS 417.230160 
+
+It:  7  BlockSize:  16  N:  131072
+Tiempo kernel: 0.000088 s
+Tiempo total: 0.041017 s
+GFLOPS 418.847523 
+
+It:  8  BlockSize:  16  N:  131072
+Tiempo kernel: 0.000087 s
+Tiempo total: 0.040768 s
+GFLOPS 421.405721 
+
+It:  9  BlockSize:  16  N:  131072
+Tiempo kernel: 0.000087 s
+Tiempo total: 0.040626 s
+GFLOPS 422.878675 
+
+It:  10  BlockSize:  16  N:  131072
+Tiempo kernel: 0.000087 s
+Tiempo total: 0.040798 s
+GFLOPS 421.095866 
+
+It:  1  BlockSize:  64  N:  131072
+Tiempo kernel: 0.000051 s
+Tiempo total: 0.089667 s
+GFLOPS 191.596347 
+
+It:  2  BlockSize:  64  N:  131072
+Tiempo kernel: 0.000044 s
+Tiempo total: 0.040703 s
+GFLOPS 422.078710 
+
+It:  3  BlockSize:  64  N:  131072
+Tiempo kernel: 0.000044 s
+Tiempo total: 0.041030 s
+GFLOPS 418.714845 
+
+It:  4  BlockSize:  64  N:  131072
+Tiempo kernel: 0.000045 s
+Tiempo total: 0.041003 s
+GFLOPS 418.990555 
+
+It:  5  BlockSize:  64  N:  131072
+Tiempo kernel: 0.000044 s
+Tiempo total: 0.040764 s
+GFLOPS 421.447074 
+
+It:  6  BlockSize:  64  N:  131072
+Tiempo kernel: 0.000044 s
+Tiempo total: 0.060689 s
+GFLOPS 283.080458 
+
+It:  7  BlockSize:  64  N:  131072
+Tiempo kernel: 0.000045 s
+Tiempo total: 0.041290 s
+GFLOPS 416.078201 
+
+It:  8  BlockSize:  64  N:  131072
+Tiempo kernel: 0.000052 s
+Tiempo total: 0.040832 s
+GFLOPS 420.745216 
+
+It:  9  BlockSize:  64  N:  131072
+Tiempo kernel: 0.000052 s
+Tiempo total: 0.083074 s
+GFLOPS 206.802010 
+
+It:  10  BlockSize:  64  N:  131072
+Tiempo kernel: 0.000044 s
+Tiempo total: 0.041285 s
+GFLOPS 416.128598 
+
+It:  1  BlockSize:  256  N:  131072
+Tiempo kernel: 0.000044 s
+Tiempo total: 0.041731 s
+GFLOPS 411.681227 
+
+It:  2  BlockSize:  256  N:  131072
+Tiempo kernel: 0.000044 s
+Tiempo total: 0.040918 s
+GFLOPS 419.860906 
+
+It:  3  BlockSize:  256  N:  131072
+Tiempo kernel: 0.000044 s
+Tiempo total: 0.041239 s
+GFLOPS 416.592790 
+
+It:  4  BlockSize:  256  N:  131072
+Tiempo kernel: 0.000051 s
+Tiempo total: 0.110128 s
+GFLOPS 155.999109 
+
+It:  5  BlockSize:  256  N:  131072
+Tiempo kernel: 0.000051 s
+Tiempo total: 0.041419 s
+GFLOPS 414.782325 
+
+It:  6  BlockSize:  256  N:  131072
+Tiempo kernel: 0.000043 s
+Tiempo total: 0.058441 s
+GFLOPS 293.969461 
+
+It:  7  BlockSize:  256  N:  131072
+Tiempo kernel: 0.000044 s
+Tiempo total: 0.040933 s
+GFLOPS 419.707093 
+
+It:  8  BlockSize:  256  N:  131072
+Tiempo kernel: 0.000043 s
+Tiempo total: 0.041095 s
+GFLOPS 418.052538 
+
+It:  9  BlockSize:  256  N:  131072
+Tiempo kernel: 0.000044 s
+Tiempo total: 0.041176 s
+GFLOPS 417.230160 
+
+It:  10  BlockSize:  256  N:  131072
+Tiempo kernel: 0.000044 s
+Tiempo total: 0.040963 s
+GFLOPS 419.399664 
+
+It:  1  BlockSize:  1024  N:  131072
+Tiempo kernel: 0.000052 s
+Tiempo total: 0.041244 s
+GFLOPS 416.542261 
+
+It:  2  BlockSize:  1024  N:  131072
+Tiempo kernel: 0.000044 s
+Tiempo total: 0.040933 s
+GFLOPS 419.707093 
+
+It:  3  BlockSize:  1024  N:  131072
+Tiempo kernel: 0.000052 s
+Tiempo total: 0.040962 s
+GFLOPS 419.409887 
+
+It:  4  BlockSize:  1024  N:  131072
+Tiempo kernel: 0.000044 s
+Tiempo total: 0.089972 s
+GFLOPS 190.946853 
+
+It:  5  BlockSize:  1024  N:  131072
+Tiempo kernel: 0.000071 s
+Tiempo total: 0.040961 s
+GFLOPS 419.420176 
+
+It:  6  BlockSize:  1024  N:  131072
+Tiempo kernel: 0.000051 s
+Tiempo total: 0.040572 s
+GFLOPS 423.441531 
+
+It:  7  BlockSize:  1024  N:  131072
+Tiempo kernel: 0.000051 s
+Tiempo total: 0.041148 s
+GFLOPS 417.514095 
+
+It:  8  BlockSize:  1024  N:  131072
+Tiempo kernel: 0.000044 s
+Tiempo total: 0.041506 s
+GFLOPS 413.912924 
+
+It:  9  BlockSize:  1024  N:  131072
+Tiempo kernel: 0.000043 s
+Tiempo total: 0.040921 s
+GFLOPS 419.830104 
+
+It:  10  BlockSize:  1024  N:  131072
+Tiempo kernel: 0.000044 s
+Tiempo total: 0.088708 s
+GFLOPS 193.667645 
+
+It:  1  BlockSize:  4  N:  1048576
+Tiempo kernel: 0.001899 s
+Tiempo total: 0.048154 s
+GFLOPS 22833.235231 
+
+It:  2  BlockSize:  4  N:  1048576
+Tiempo kernel: 0.001894 s
+Tiempo total: 0.048655 s
+GFLOPS 22598.121423 
+
+It:  3  BlockSize:  4  N:  1048576
+Tiempo kernel: 0.001892 s
+Tiempo total: 0.048545 s
+GFLOPS 22649.327583 
+
+It:  4  BlockSize:  4  N:  1048576
+Tiempo kernel: 0.001909 s
+Tiempo total: 0.069366 s
+GFLOPS 15850.872504 
+
+It:  5  BlockSize:  4  N:  1048576
+Tiempo kernel: 0.001892 s
+Tiempo total: 0.064297 s
+GFLOPS 17100.512952 
+
+It:  6  BlockSize:  4  N:  1048576
+Tiempo kernel: 0.001897 s
+Tiempo total: 0.048154 s
+GFLOPS 22833.235231 
+
+It:  7  BlockSize:  4  N:  1048576
+Tiempo kernel: 0.001892 s
+Tiempo total: 0.049222 s
+GFLOPS 22337.808237 
+
+It:  8  BlockSize:  4  N:  1048576
+Tiempo kernel: 0.001899 s
+Tiempo total: 0.047929 s
+GFLOPS 22940.424864 
+
+It:  9  BlockSize:  4  N:  1048576
+Tiempo kernel: 0.001894 s
+Tiempo total: 0.048161 s
+GFLOPS 22829.917536 
+
+It:  10  BlockSize:  4  N:  1048576
+Tiempo kernel: 0.001903 s
+Tiempo total: 0.047225 s
+GFLOPS 23282.407440 
+
+It:  1  BlockSize:  16  N:  1048576
+Tiempo kernel: 0.000626 s
+Tiempo total: 0.046512 s
+GFLOPS 23639.311254 
+
+It:  2  BlockSize:  16  N:  1048576
+Tiempo kernel: 0.000630 s
+Tiempo total: 0.087556 s
+GFLOPS 12557.810139 
+
+It:  3  BlockSize:  16  N:  1048576
+Tiempo kernel: 0.000630 s
+Tiempo total: 0.087047 s
+GFLOPS 12631.241916 
+
+It:  4  BlockSize:  16  N:  1048576
+Tiempo kernel: 0.000632 s
+Tiempo total: 0.046870 s
+GFLOPS 23458.750661 
+
+It:  5  BlockSize:  16  N:  1048576
+Tiempo kernel: 0.000630 s
+Tiempo total: 0.094819 s
+GFLOPS 11595.899994 
+
+It:  6  BlockSize:  16  N:  1048576
+Tiempo kernel: 0.000630 s
+Tiempo total: 0.048578 s
+GFLOPS 22633.942876 
+
+It:  7  BlockSize:  16  N:  1048576
+Tiempo kernel: 0.000651 s
+Tiempo total: 0.047990 s
+GFLOPS 22911.263965 
+
+It:  8  BlockSize:  16  N:  1048576
+Tiempo kernel: 0.000625 s
+Tiempo total: 0.046500 s
+GFLOPS 23645.409772 
+
+It:  9  BlockSize:  16  N:  1048576
+Tiempo kernel: 0.000628 s
+Tiempo total: 0.062954 s
+GFLOPS 17465.317786 
+
+It:  10  BlockSize:  16  N:  1048576
+Tiempo kernel: 0.000629 s
+Tiempo total: 0.046839 s
+GFLOPS 23474.275877 
+
+It:  1  BlockSize:  64  N:  1048576
+Tiempo kernel: 0.000342 s
+Tiempo total: 0.097542 s
+GFLOPS 11272.186757 
+
+It:  2  BlockSize:  64  N:  1048576
+Tiempo kernel: 0.000346 s
+Tiempo total: 0.045991 s
+GFLOPS 23907.104981 
+
+It:  3  BlockSize:  64  N:  1048576
+Tiempo kernel: 0.000339 s
+Tiempo total: 0.045721 s
+GFLOPS 24048.283156 
+
+It:  4  BlockSize:  64  N:  1048576
+Tiempo kernel: 0.000341 s
+Tiempo total: 0.046489 s
+GFLOPS 23651.007070 
+
+It:  5  BlockSize:  64  N:  1048576
+Tiempo kernel: 0.000343 s
+Tiempo total: 0.046420 s
+GFLOPS 23686.163726 
+
+It:  6  BlockSize:  64  N:  1048576
+Tiempo kernel: 0.000346 s
+Tiempo total: 0.046591 s
+GFLOPS 23599.228387 
+
+It:  7  BlockSize:  64  N:  1048576
+Tiempo kernel: 0.000340 s
+Tiempo total: 0.086787 s
+GFLOPS 12669.081879 
+
+It:  8  BlockSize:  64  N:  1048576
+Tiempo kernel: 0.000346 s
+Tiempo total: 0.046227 s
+GFLOPS 23785.052832 
+
+It:  9  BlockSize:  64  N:  1048576
+Tiempo kernel: 0.000346 s
+Tiempo total: 0.046611 s
+GFLOPS 23589.101240 
+
+It:  10  BlockSize:  64  N:  1048576
+Tiempo kernel: 0.000343 s
+Tiempo total: 0.045925 s
+GFLOPS 23941.462622 
+
+It:  1  BlockSize:  256  N:  1048576
+Tiempo kernel: 0.000347 s
+Tiempo total: 0.046454 s
+GFLOPS 23668.826571 
+
+It:  2  BlockSize:  256  N:  1048576
+Tiempo kernel: 0.000339 s
+Tiempo total: 0.066479 s
+GFLOPS 16539.233288 
+
+It:  3  BlockSize:  256  N:  1048576
+Tiempo kernel: 0.000346 s
+Tiempo total: 0.046257 s
+GFLOPS 23769.626182 
+
+It:  4  BlockSize:  256  N:  1048576
+Tiempo kernel: 0.000343 s
+Tiempo total: 0.046545 s
+GFLOPS 23622.550815 
+
+It:  5  BlockSize:  256  N:  1048576
+Tiempo kernel: 0.000346 s
+Tiempo total: 0.046587 s
+GFLOPS 23601.254236 
+
+It:  6  BlockSize:  256  N:  1048576
+Tiempo kernel: 0.000343 s
+Tiempo total: 0.062980 s
+GFLOPS 17458.108826 
+
+It:  7  BlockSize:  256  N:  1048576
+Tiempo kernel: 0.000342 s
+Tiempo total: 0.046219 s
+GFLOPS 23789.167444 
+
+It:  8  BlockSize:  256  N:  1048576
+Tiempo kernel: 0.000340 s
+Tiempo total: 0.046586 s
+GFLOPS 23601.761747 
+
+It:  9  BlockSize:  256  N:  1048576
+Tiempo kernel: 0.000346 s
+Tiempo total: 0.046698 s
+GFLOPS 23545.155420 
+
+It:  10  BlockSize:  256  N:  1048576
+Tiempo kernel: 0.000347 s
+Tiempo total: 0.047349 s
+GFLOPS 23221.432746 
+
+It:  1  BlockSize:  1024  N:  1048576
+Tiempo kernel: 0.000342 s
+Tiempo total: 0.045796 s
+GFLOPS 24008.898642 
+
+It:  2  BlockSize:  1024  N:  1048576
+Tiempo kernel: 0.000345 s
+Tiempo total: 0.062032 s
+GFLOPS 17724.908503 
+
+It:  3  BlockSize:  1024  N:  1048576
+Tiempo kernel: 0.000345 s
+Tiempo total: 0.046369 s
+GFLOPS 23712.212451 
+
+It:  4  BlockSize:  1024  N:  1048576
+Tiempo kernel: 0.000347 s
+Tiempo total: 0.046210 s
+GFLOPS 23793.804247 
+
+It:  5  BlockSize:  1024  N:  1048576
+Tiempo kernel: 0.000344 s
+Tiempo total: 0.046418 s
+GFLOPS 23687.182942 
+
+It:  6  BlockSize:  1024  N:  1048576
+Tiempo kernel: 0.000345 s
+Tiempo total: 0.046412 s
+GFLOPS 23690.244784 
+
+It:  7  BlockSize:  1024  N:  1048576
+Tiempo kernel: 0.000344 s
+Tiempo total: 0.046063 s
+GFLOPS 23869.735830 
+
+It:  8  BlockSize:  1024  N:  1048576
+Tiempo kernel: 0.000341 s
+Tiempo total: 0.046401 s
+GFLOPS 23695.858860 
+
+It:  9  BlockSize:  1024  N:  1048576
+Tiempo kernel: 0.000346 s
+Tiempo total: 0.045996 s
+GFLOPS 23904.506610 
+
+It:  10  BlockSize:  1024  N:  1048576
+Tiempo kernel: 0.000346 s
+Tiempo total: 0.046502 s
+GFLOPS 23644.394750 
+
+It:  1  BlockSize:  4  N:  8388608
+Tiempo kernel: 0.014010 s
+Tiempo total: 0.098734 s
+GFLOPS 712710.362759 
+
+It:  2  BlockSize:  4  N:  8388608
+Tiempo kernel: 0.014008 s
+Tiempo total: 0.098496 s
+GFLOPS 714432.443318 
+
+It:  3  BlockSize:  4  N:  8388608
+Tiempo kernel: 0.013986 s
+Tiempo total: 0.098394 s
+GFLOPS 715173.123850 
+
+It:  4  BlockSize:  4  N:  8388608
+Tiempo kernel: 0.014003 s
+Tiempo total: 0.099071 s
+GFLOPS 710286.055047 
+
+It:  5  BlockSize:  4  N:  8388608
+Tiempo kernel: 0.013995 s
+Tiempo total: 0.098496 s
+GFLOPS 714432.443318 
+
+It:  6  BlockSize:  4  N:  8388608
+Tiempo kernel: 0.013981 s
+Tiempo total: 0.098828 s
+GFLOPS 712032.429015 
+
+It:  7  BlockSize:  4  N:  8388608
+Tiempo kernel: 0.014003 s
+Tiempo total: 0.097583 s
+GFLOPS 721116.821717 
+
+It:  8  BlockSize:  4  N:  8388608
+Tiempo kernel: 0.013995 s
+Tiempo total: 0.113602 s
+GFLOPS 619432.263025 
+
+It:  9  BlockSize:  4  N:  8388608
+Tiempo kernel: 0.013991 s
+Tiempo total: 0.097168 s
+GFLOPS 724196.715921 
+
+It:  10  BlockSize:  4  N:  8388608
+Tiempo kernel: 0.013998 s
+Tiempo total: 0.099201 s
+GFLOPS 709355.255103 
+
+It:  1  BlockSize:  16  N:  8388608
+Tiempo kernel: 0.003864 s
+Tiempo total: 0.105854 s
+GFLOPS 664771.749741 
+
+It:  2  BlockSize:  16  N:  8388608
+Tiempo kernel: 0.003866 s
+Tiempo total: 0.102946 s
+GFLOPS 683550.084956 
+
+It:  3  BlockSize:  16  N:  8388608
+Tiempo kernel: 0.003872 s
+Tiempo total: 0.108890 s
+GFLOPS 646237.019701 
+
+It:  4  BlockSize:  16  N:  8388608
+Tiempo kernel: 0.003875 s
+Tiempo total: 0.088374 s
+GFLOPS 796260.697113 
+
+It:  5  BlockSize:  16  N:  8388608
+Tiempo kernel: 0.003863 s
+Tiempo total: 0.088339 s
+GFLOPS 796576.242991 
+
+It:  6  BlockSize:  16  N:  8388608
+Tiempo kernel: 0.003868 s
+Tiempo total: 0.088831 s
+GFLOPS 792164.237836 
+
+It:  7  BlockSize:  16  N:  8388608
+Tiempo kernel: 0.003874 s
+Tiempo total: 0.102185 s
+GFLOPS 688640.694944 
+
+It:  8  BlockSize:  16  N:  8388608
+Tiempo kernel: 0.003868 s
+Tiempo total: 0.087931 s
+GFLOPS 800272.330785 
+
+It:  9  BlockSize:  16  N:  8388608
+Tiempo kernel: 0.003873 s
+Tiempo total: 0.087170 s
+GFLOPS 807258.766180 
+
+It:  10  BlockSize:  16  N:  8388608
+Tiempo kernel: 0.003857 s
+Tiempo total: 0.088696 s
+GFLOPS 793370.049905 
+
+It:  1  BlockSize:  64  N:  8388608
+Tiempo kernel: 0.001653 s
+Tiempo total: 0.085778 s
+GFLOPS 820358.886195 
+
+It:  2  BlockSize:  64  N:  8388608
+Tiempo kernel: 0.001651 s
+Tiempo total: 0.086471 s
+GFLOPS 813784.365007 
+
+It:  3  BlockSize:  64  N:  8388608
+Tiempo kernel: 0.001657 s
+Tiempo total: 0.101072 s
+GFLOPS 696223.929467 
+
+It:  4  BlockSize:  64  N:  8388608
+Tiempo kernel: 0.001646 s
+Tiempo total: 0.086242 s
+GFLOPS 815945.203319 
+
+It:  5  BlockSize:  64  N:  8388608
+Tiempo kernel: 0.001649 s
+Tiempo total: 0.100652 s
+GFLOPS 699129.139298 
+
+It:  6  BlockSize:  64  N:  8388608
+Tiempo kernel: 0.001647 s
+Tiempo total: 0.086053 s
+GFLOPS 817737.278423 
+
+It:  7  BlockSize:  64  N:  8388608
+Tiempo kernel: 0.001650 s
+Tiempo total: 0.085552 s
+GFLOPS 822526.032740 
+
+It:  8  BlockSize:  64  N:  8388608
+Tiempo kernel: 0.001656 s
+Tiempo total: 0.100970 s
+GFLOPS 696927.230362 
+
+It:  9  BlockSize:  64  N:  8388608
+Tiempo kernel: 0.001654 s
+Tiempo total: 0.086591 s
+GFLOPS 812656.533438 
+
+It:  10  BlockSize:  64  N:  8388608
+Tiempo kernel: 0.001652 s
+Tiempo total: 0.102855 s
+GFLOPS 684154.802930 
+
+It:  1  BlockSize:  256  N:  8388608
+Tiempo kernel: 0.001640 s
+Tiempo total: 0.085581 s
+GFLOPS 822247.262519 
+
+It:  2  BlockSize:  256  N:  8388608
+Tiempo kernel: 0.001653 s
+Tiempo total: 0.085345 s
+GFLOPS 824520.977940 
+
+It:  3  BlockSize:  256  N:  8388608
+Tiempo kernel: 0.001652 s
+Tiempo total: 0.100017 s
+GFLOPS 703567.853781 
+
+It:  4  BlockSize:  256  N:  8388608
+Tiempo kernel: 0.001657 s
+Tiempo total: 0.085195 s
+GFLOPS 825972.743995 
+
+It:  5  BlockSize:  256  N:  8388608
+Tiempo kernel: 0.001648 s
+Tiempo total: 0.085228 s
+GFLOPS 825652.903150 
+
+It:  6  BlockSize:  256  N:  8388608
+Tiempo kernel: 0.001647 s
+Tiempo total: 0.086071 s
+GFLOPS 817566.217929 
+
+It:  7  BlockSize:  256  N:  8388608
+Tiempo kernel: 0.001653 s
+Tiempo total: 0.085167 s
+GFLOPS 826244.266459 
+
+It:  8  BlockSize:  256  N:  8388608
+Tiempo kernel: 0.001646 s
+Tiempo total: 0.101971 s
+GFLOPS 690085.817221 
+
+It:  9  BlockSize:  256  N:  8388608
+Tiempo kernel: 0.001649 s
+Tiempo total: 0.100703 s
+GFLOPS 698775.072932 
+
+It:  10  BlockSize:  256  N:  8388608
+Tiempo kernel: 0.001644 s
+Tiempo total: 0.085285 s
+GFLOPS 825101.066961 
+
+It:  1  BlockSize:  1024  N:  8388608
+Tiempo kernel: 0.001650 s
+Tiempo total: 0.100777 s
+GFLOPS 698261.958558 
+
+It:  2  BlockSize:  1024  N:  8388608
+Tiempo kernel: 0.001656 s
+Tiempo total: 0.100535 s
+GFLOPS 699942.700057 
+
+It:  3  BlockSize:  1024  N:  8388608
+Tiempo kernel: 0.001641 s
+Tiempo total: 0.085357 s
+GFLOPS 824405.080932 
+
+It:  4  BlockSize:  1024  N:  8388608
+Tiempo kernel: 0.001650 s
+Tiempo total: 0.085530 s
+GFLOPS 822737.559880 
+
+It:  5  BlockSize:  1024  N:  8388608
+Tiempo kernel: 0.001655 s
+Tiempo total: 0.102154 s
+GFLOPS 688849.604837 
+
+It:  6  BlockSize:  1024  N:  8388608
+Tiempo kernel: 0.001643 s
+Tiempo total: 0.089848 s
+GFLOPS 783197.688300 
+
+It:  7  BlockSize:  1024  N:  8388608
+Tiempo kernel: 0.001648 s
+Tiempo total: 0.085868 s
+GFLOPS 819499.087430 
+
+It:  8  BlockSize:  1024  N:  8388608
+Tiempo kernel: 0.001657 s
+Tiempo total: 0.101943 s
+GFLOPS 690275.399762 
+
+It:  9  BlockSize:  1024  N:  8388608
+Tiempo kernel: 0.001652 s
+Tiempo total: 0.085395 s
+GFLOPS 824038.263882 
+
+It:  10  BlockSize:  1024  N:  8388608
+Tiempo kernel: 0.001649 s
+Tiempo total: 0.085947 s
+GFLOPS 818745.790431 
+
+It:  1  BlockSize:  4  N:  134217728
+Tiempo kernel: 0.207717 s
+Tiempo total: 0.930583 s
+GFLOPS 19358186.402218 
+
+It:  2  BlockSize:  4  N:  134217728
+Tiempo kernel: 0.183025 s
+Tiempo total: 0.917318 s
+GFLOPS 19638117.338186 
+
+It:  3  BlockSize:  4  N:  134217728
+Tiempo kernel: 0.173969 s
+Tiempo total: 0.906114 s
+GFLOPS 19880939.756716 
+
+It:  4  BlockSize:  4  N:  134217728
+Tiempo kernel: 0.173947 s
+Tiempo total: 0.896976 s
+GFLOPS 20083479.676977 
+
+It:  5  BlockSize:  4  N:  134217728
+Tiempo kernel: 0.173902 s
+Tiempo total: 0.889568 s
+GFLOPS 20250727.850967 
+
+It:  6  BlockSize:  4  N:  134217728
+Tiempo kernel: 0.186491 s
+Tiempo total: 0.920270 s
+GFLOPS 19575123.052855 
+
+It:  7  BlockSize:  4  N:  134217728
+Tiempo kernel: 0.175031 s
+Tiempo total: 0.904864 s
+GFLOPS 19908403.925090 
+
+It:  8  BlockSize:  4  N:  134217728
+Tiempo kernel: 0.175176 s
+Tiempo total: 0.898288 s
+GFLOPS 20054145.050345 
+
+It:  9  BlockSize:  4  N:  134217728
+Tiempo kernel: 0.175033 s
+Tiempo total: 0.906242 s
+GFLOPS 19878132.995588 
+
+It:  10  BlockSize:  4  N:  134217728
+Tiempo kernel: 0.190749 s
+Tiempo total: 0.929304 s
+GFLOPS 19384828.084355 
+
+It:  1  BlockSize:  16  N:  134217728
+Tiempo kernel: 0.047389 s
+Tiempo total: 0.777927 s
+GFLOPS 23156928.209224 
+
+It:  2  BlockSize:  16  N:  134217728
+Tiempo kernel: 0.047416 s
+Tiempo total: 0.782816 s
+GFLOPS 23012301.627982 
+
+It:  3  BlockSize:  16  N:  134217728
+Tiempo kernel: 0.047405 s
+Tiempo total: 0.801641 s
+GFLOPS 22471902.400348 
+
+It:  4  BlockSize:  16  N:  134217728
+Tiempo kernel: 0.051325 s
+Tiempo total: 0.787963 s
+GFLOPS 22861984.215073 
+
+It:  5  BlockSize:  16  N:  134217728
+Tiempo kernel: 0.047485 s
+Tiempo total: 0.776986 s
+GFLOPS 23184972.198183 
+
+It:  6  BlockSize:  16  N:  134217728
+Tiempo kernel: 0.047473 s
+Tiempo total: 0.792621 s
+GFLOPS 22727633.343087 
+
+It:  7  BlockSize:  16  N:  134217728
+Tiempo kernel: 0.047461 s
+Tiempo total: 0.778439 s
+GFLOPS 23141693.960225 
+
+It:  8  BlockSize:  16  N:  134217728
+Tiempo kernel: 0.053889 s
+Tiempo total: 0.790860 s
+GFLOPS 22778238.795252 
+
+It:  9  BlockSize:  16  N:  134217728
+Tiempo kernel: 0.047406 s
+Tiempo total: 0.788657 s
+GFLOPS 22841866.588258 
+
+It:  10  BlockSize:  16  N:  134217728
+Tiempo kernel: 0.047378 s
+Tiempo total: 0.772430 s
+GFLOPS 23321723.956888 
+
+It:  1  BlockSize:  64  N:  134217728
+Tiempo kernel: 0.022890 s
+Tiempo total: 0.779228 s
+GFLOPS 23118262.766141 
+
+It:  2  BlockSize:  64  N:  134217728
+Tiempo kernel: 0.022839 s
+Tiempo total: 0.747480 s
+GFLOPS 24100176.041869 
+
+It:  3  BlockSize:  64  N:  134217728
+Tiempo kernel: 0.022891 s
+Tiempo total: 0.783240 s
+GFLOPS 22999846.222823 
+
+It:  4  BlockSize:  64  N:  134217728
+Tiempo kernel: 0.022894 s
+Tiempo total: 0.768427 s
+GFLOPS 23443213.549306 
+
+It:  5  BlockSize:  64  N:  134217728
+Tiempo kernel: 0.022902 s
+Tiempo total: 0.764595 s
+GFLOPS 23560706.674655 
+
+It:  6  BlockSize:  64  N:  134217728
+Tiempo kernel: 0.022826 s
+Tiempo total: 0.770899 s
+GFLOPS 23368040.884208 
+
+It:  7  BlockSize:  64  N:  134217728
+Tiempo kernel: 0.022895 s
+Tiempo total: 0.746709 s
+GFLOPS 24125058.934899 
+
+It:  8  BlockSize:  64  N:  134217728
+Tiempo kernel: 0.022895 s
+Tiempo total: 0.759204 s
+GFLOPS 23728008.535736 
+
+It:  9  BlockSize:  64  N:  134217728
+Tiempo kernel: 0.022893 s
+Tiempo total: 0.764194 s
+GFLOPS 23573071.885500 
+
+It:  10  BlockSize:  64  N:  134217728
+Tiempo kernel: 0.022879 s
+Tiempo total: 0.762504 s
+GFLOPS 23625315.867689 
+
+It:  1  BlockSize:  256  N:  134217728
+Tiempo kernel: 0.022892 s
+Tiempo total: 0.724740 s
+GFLOPS 24856360.868905 
+
+It:  2  BlockSize:  256  N:  134217728
+Tiempo kernel: 0.022885 s
+Tiempo total: 0.750467 s
+GFLOPS 24004252.242280 
+
+It:  3  BlockSize:  256  N:  134217728
+Tiempo kernel: 0.022893 s
+Tiempo total: 0.748365 s
+GFLOPS 24071674.638893 
+
+It:  4  BlockSize:  256  N:  134217728
+Tiempo kernel: 0.022838 s
+Tiempo total: 0.750538 s
+GFLOPS 24001978.057097 
+
+It:  5  BlockSize:  256  N:  134217728
+Tiempo kernel: 0.022893 s
+Tiempo total: 0.729272 s
+GFLOPS 24701894.517588 
+
+It:  6  BlockSize:  256  N:  134217728
+Tiempo kernel: 0.022888 s
+Tiempo total: 0.768494 s
+GFLOPS 23441169.144873 
+
+It:  7  BlockSize:  256  N:  134217728
+Tiempo kernel: 0.022893 s
+Tiempo total: 0.761132 s
+GFLOPS 23667902.615912 
+
+It:  8  BlockSize:  256  N:  134217728
+Tiempo kernel: 0.022860 s
+Tiempo total: 0.760579 s
+GFLOPS 23685112.549868 
+
+It:  9  BlockSize:  256  N:  134217728
+Tiempo kernel: 0.022883 s
+Tiempo total: 0.777178 s
+GFLOPS 23179244.859294 
+
+It:  10  BlockSize:  256  N:  134217728
+Tiempo kernel: 0.022891 s
+Tiempo total: 0.770931 s
+GFLOPS 23367070.221599 
+
+It:  1  BlockSize:  1024  N:  134217728
+Tiempo kernel: 0.022927 s
+Tiempo total: 0.751677 s
+GFLOPS 23965612.569002 
+
+It:  2  BlockSize:  1024  N:  134217728
+Tiempo kernel: 0.022914 s
+Tiempo total: 0.743848 s
+GFLOPS 24217847.408361 
+
+It:  3  BlockSize:  1024  N:  134217728
+Tiempo kernel: 0.022935 s
+Tiempo total: 0.761808 s
+GFLOPS 23646902.373319 
+
+It:  4  BlockSize:  1024  N:  134217728
+Tiempo kernel: 0.022934 s
+Tiempo total: 0.748295 s
+GFLOPS 24073925.201756 
+
+It:  5  BlockSize:  1024  N:  134217728
+Tiempo kernel: 0.022930 s
+Tiempo total: 0.764841 s
+GFLOPS 23553128.204861 
+
+It:  6  BlockSize:  1024  N:  134217728
+Tiempo kernel: 0.022855 s
+Tiempo total: 0.763307 s
+GFLOPS 23600460.891947 
+
+It:  7  BlockSize:  1024  N:  134217728
+Tiempo kernel: 0.022934 s
+Tiempo total: 0.768539 s
+GFLOPS 23439796.902822 
+
+It:  8  BlockSize:  1024  N:  134217728
+Tiempo kernel: 0.022928 s
+Tiempo total: 0.769094 s
+GFLOPS 23422883.321610 
+
+It:  9  BlockSize:  1024  N:  134217728
+Tiempo kernel: 0.022928 s
+Tiempo total: 0.783011 s
+GFLOPS 23006572.141609 
+
+It:  10  BlockSize:  1024  N:  134217728
+Tiempo kernel: 0.022873 s
+Tiempo total: 0.755672 s
+GFLOPS 23838913.181254 
+
+It:  1  BlockSize:  4  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.073672 s
+GFLOPS 0.000890 
+
+It:  2  BlockSize:  4  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.039928 s
+GFLOPS 0.001641 
+
+It:  3  BlockSize:  4  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040530 s
+GFLOPS 0.001617 
+
+It:  4  BlockSize:  4  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040678 s
+GFLOPS 0.001611 
+
+It:  5  BlockSize:  4  N:  256
+Tiempo kernel: 0.000015 s
+Tiempo total: 0.040217 s
+GFLOPS 0.001630 
+
+It:  6  BlockSize:  4  N:  256
+Tiempo kernel: 0.000017 s
+Tiempo total: 0.040189 s
+GFLOPS 0.001631 
+
+It:  7  BlockSize:  4  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.040506 s
+GFLOPS 0.001618 
+
+It:  8  BlockSize:  4  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.056329 s
+GFLOPS 0.001163 
+
+It:  9  BlockSize:  4  N:  256
+Tiempo kernel: 0.000014 s
+Tiempo total: 0.065679 s
+GFLOPS 0.000998 
+
+It:  10  BlockSize:  4  N:  256
+Tiempo kernel: 0.000016 s
+Tiempo total: 0.039786 s
+GFLOPS 0.001647 
