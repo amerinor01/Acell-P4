@@ -30,7 +30,7 @@ void genVectors(vector A, vector B, unsigned int size){
 // CUDA Kernels
 __global__ void SumVectorSec(vector A, vector B, vector C, unsigned int n){
 
-    unsigned int k = threadIdx.x * blockDim.x * blockIdx.x;
+    unsigned int k = threadIdx.x * blockDim.x + blockIdx.x;
     if (k < n)
         C[k] = A[k] + B[k];
 }
