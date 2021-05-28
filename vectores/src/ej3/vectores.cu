@@ -133,7 +133,7 @@ int main(int argc, char **argv)
 
    // Definir el grid y los bloques de hilos
     dim3 dimBlock(blockSize);
-    dim3 dimGrid( ceil(n / (float)blockSize));
+    dim3 dimGrid( (n/stream) / blockSize);
 
    // Timers: para medir el tiempo del kernel
    sdkCreateTimer(&kTimer);
